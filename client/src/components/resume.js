@@ -10,9 +10,9 @@ return(
             <div class="mt-5 pl-5 pr-5">
                 <h2>Jeremiah Rogers</h2>
             <ul>
-                    <li>Core competencies in web technology product ownership, full-stack web development, project management, business systems development, and managing integrations.</li>
-                    <li>Self-driven team player with strengths in team leadership and developing interpersonal relationships.</li>
-                    <li>Possess excellent planning, organization, time management and decision-making skills.</li>
+                    <li>Experienced in product ownership, full-stack web development, project management, business systems development, and managing integrations.</li>
+                    <li>Team player with strengths in team leadership and building professional relationships.</li>
+                    <li>Excel at planning, organization, time management and decision-making skills.</li>
                 </ul>
                 <p class="mt-5">
                 <a href="Linkedin link">

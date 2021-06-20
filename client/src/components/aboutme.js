@@ -10,9 +10,9 @@ function AboutMe() {
         <div className="col-10" id="about-section">
             <img class="mb-5" id="avatar" src="github avatar URL" alt="Jeremiah Rogers"/>
         
-        <p>Fill</p>
-        <p>Fill</p>
-        <p>Fill</p>
+        <p>Core competencies in business systems analysis, full-stack web development, product ownership, and managing integrations.</p>
+        <p>Experinced in management techniques, business development, and team leadership</p>
+        
       </div>  
       </div>
     </section> 
