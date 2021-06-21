@@ -16,7 +16,7 @@ return(
                 </ul>
                 <p class="mt-5">
                 <a href="Linkedin link">
-                    <img src="linkedin img" alt="LinkedIn"/></a>
+                    <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="LinkedIn"/></a>
                 </p>
                <a href="" class="link">Download Resume</a> 
             </div>

@@ -11,7 +11,7 @@ function Projects(props) {
               <p className="project-title" id="card-title">{props.name}</p>
               <p id="proj-icons-container">
               <a href={props.github}><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub Repo" id="project-icon"/></a> 
-              <a href={props.deploy}><img src="deployed link" alt="Live Application" id="project-icon"/></a> 
+              <a href={props.deploy}><img src="https://img.icons8.com/fluent/48/000000/missile.png" alt="Live Application" id="project-icon"/></a> 
              </p>
               <p id="topics">
                     ({props.topics})

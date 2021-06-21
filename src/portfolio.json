@@ -1,42 +1,40 @@
 [{
     "id": 1,
     "name":"Pro-RDme-Generator", 
-   
-    "github":"https://github.com/jerogers8789/Pro-RDme-Generator",
-    "deploy": "N/A" 
+   "image": "https://img.icons8.com/fluent/48/000000/question-group.png",
+    "github":"https://github.com/jerogers8789/Pro-RDme-Generator"
 },
 {
     "id": 2,
     "name":"Express-Retail", 
-
-    "github":"https://github.com/jerogers8789/Express-Retail",
-    "deploy":"N/A"  
+    "image": "https://img.icons8.com/fluent/48/000000/exhibitor.png",
+    "github":"https://github.com/jerogers8789/Express-Retail" 
 },
 {
     "id": 3,
     "name": "tyrannosaurus_flex",
-    
+    "image": "https://img.icons8.com/fluent/48/000000/dumbbell.png",
     "github": "https://github.com/jerogers8789/tyrannosaurus_flex",
     "deploy": "https://tyrannosaurus-flex.herokuapp.com"
 },
 {
     "id": 4,
     "name": "react-directory",
-   
+    "image": "https://img.icons8.com/fluent/48/000000/security-pass.png",
     "github": "https://github.com/jerogers8789/react-directory",
-    "deploy": " https://react-emdirectory.herokuapp.com"
+    "deploy": "https://react-emdirectory.herokuapp.com"
 },
 {
     "id": 5,
     "name": "Daily Planner",
-  
+    "image": "https://img.icons8.com/fluent/48/000000/inspection.png",
     "github": "https://github.com/jerogers8789/DailyPlanner_HW5",
     "deploy": "https://jerogers8789.github.io/DailyPlanner_HW5/"
 },
 {
     "id": 6,
     "name": "PennyBroker",
-   
+    "image": "https://img.icons8.com/fluent/48/000000/investment.png",
     "github": "https://github.com/josephmartin721/Penny-Broker",
     "deploy": "https://josephmartin721.github.io/Penny-Broker/"
 }]
