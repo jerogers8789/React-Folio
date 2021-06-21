@@ -18,7 +18,7 @@ return(
                 <a href="Linkedin link">
                     <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="LinkedIn"/></a>
                 </p>
-               <a href="" class="link">Download Resume</a> 
+               <a href="src/components/Web format Resume'.pdf" class="link">Download Resume</a> 
             </div>
         </div>
         <div class="justify-content-center mt-5">
