@@ -15,10 +15,10 @@ return(
                     <li>Excel at planning, organization, time management and decision-making skills.</li>
                 </ul>
                 <p class="mt-5">
-                <a href="Linkedin link">
+                <a href="https://www.linkedin.com/in/jeremiah-rogers-a1a0a372/">
                     <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="LinkedIn"/></a>
                 </p>
-               <a href="src/components/Web format Resume'.pdf" class="link">Download Resume</a> 
+               <a href="src/components/Web format Resume'.docx" download class="link">Download Resume</a> 
             </div>
         </div>
         <div class="justify-content-center mt-5">
